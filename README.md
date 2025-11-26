@@ -21,3 +21,6 @@ Unsupported characters are ignored.
 
 ## Example
 **Input:**
+```hello world```
+**Output:**
+```.... . .-.. .-.. --- / .-- --- .-. .-.. -..```
